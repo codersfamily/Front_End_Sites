@@ -2,7 +2,7 @@
 
 ## 一、	项目技术栈
 
-###使用react.js、Ant-Design、react-router，以下为官方文档
+### 使用react.js、Ant-Design、react-router，以下为官方文档
 
 1. Ant-Design：https://ant.design/docs/react/introduce-cn
 2. React视频教程：https://www.bilibili.com/video/av38372336
