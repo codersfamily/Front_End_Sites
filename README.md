@@ -16,7 +16,7 @@
 ## 三、	使用命令行
 
 1. npm install (安装依赖包)
-2. npm start (项目启动，需要保证3000端口不被占用)
+2. npm start (项目启动，需要保证3000端口不被占用,假如3000端口不能使用 可以修改 start.js 文件下的 const DEFAULT_PORT = parseInt(process.env.PORT, 10) || <strong>3001</strong>; 来修改端口)
 3. npm run build (项目打包，打包后的文件夹为根目录下的 build文件夹)
 
 
